@@ -1,0 +1,18 @@
+Python Programming Introduction
+
+    Python is a high-level, general-purpose programming language known for its clean, human-readable syntax. 
+    It was created by Guido van Rossum and first released in 1991. 
+    Today, it’s one of the most widely used languages in the world—popular among beginners and professionals alike.
+
+    Why Python Is Popular
+
+    Easy to read and write: Its syntax is close to English, making it beginner-friendly.
+
+    Versatile: Used in web development, data science, machine learning, automation, AI, scientific computing, cybersecurity, and more.
+
+    Large ecosystem: Thousands of libraries like NumPy, Pandas, TensorFlow, Django, Flask, and PyTorch.
+
+    Cross-platform: Works on Windows, macOS, Linux, and more.
+
+    Strong community: Millions of developers and tons of learning resources.
+    
